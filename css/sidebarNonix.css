@@ -1,0 +1,52 @@
+
+.side-bar{
+    position: absolute;
+    width: 350px;
+    height: 1024px;
+    left: 1px;
+    top: 0px;
+    background-color: #12171D;
+}
+.dp img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 1px solid white;
+    margin: 20px 100px 0px 100px;
+    border-radius: 50%;
+}
+.about-you{
+    text-align: center;
+    color: #ffffff;
+}
+li{
+    display: inline;
+}
+.connect-bar{
+    padding-left: 125px;
+}
+.connect-bar a{
+    text-decoration: none;
+}
+.profile{
+    border-bottom: 1px solid gray;
+}
+.stories{
+    color: #E84933;
+}
+.about{
+    color: #4dff88
+}
+.address{
+    color: #1a8cff
+}
+.saa{
+    margin-left: 80px;
+}
+.section{
+    margin-top: 10px;
+}
+.section p{
+    margin-left: 20px;
+    color: gainsboro;
+} 
